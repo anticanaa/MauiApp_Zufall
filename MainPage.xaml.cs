@@ -1,14 +1,13 @@
-﻿namespace MauiApp_Zufall
+﻿namespace MauiAppZufall
 {
     public partial class MainPage : ContentPage
     {
-     
+
         public MainPage()
         {
             InitializeComponent();
         }
 
-     
     }
 
 }

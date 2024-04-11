@@ -1,4 +1,4 @@
-﻿namespace MauiApp_Zufall
+﻿namespace MauiAppZufall
 {
     public partial class App : Application
     {
